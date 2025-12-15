@@ -1,0 +1,5 @@
+{
+  "name": "GST Bill & Invoice Maker",
+  "description": "A comprehensive web application for generating GST and Non-GST invoices, managing inventory, and tracking sales analytics. Features PDF export and professional templates.",
+  "requestFramePermissions": []
+}
